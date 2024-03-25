@@ -9,9 +9,10 @@
 
 一个企业中最最最常用的系统 —— `用户中心` ，说白了，就是一个简单的 “用户管理系统” ，实现了用户注册、登录、查询等基础功能。如图：
 
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/510ad66d-a1cc-4b3d-bea3-952736914e2e.png)
+![](http://image.cbyyy.cn/img/user-center-1.jpg)
 
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20220419200007861-20230322164346811.png)
+![](http://image.cbyyy.cn/img/user-center-2.jpg)
+![](http://image.cbyyy.cn/img/user-center-3.jpg)
 
 
 
